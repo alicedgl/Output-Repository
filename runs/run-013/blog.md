@@ -14,10 +14,7 @@ Most finance teams operate in the dark when it comes to contract data. According
 
 The pattern is familiar. A vendor contract auto-renews because nobody flagged the termination window. A payment schedule falls out of sync with your forecast because the terms live in a PDF nobody indexed. A multi-year commitment quietly rolls over at unfavorable rates.
 
-> "Many hours saved, many dollars saved in contracts that we meant to terminate and forgot."
-> — **Jennifer Neville, Associate Corporate General Counsel at Sevita**
-
-These are not edge cases. They are the default outcome when contract data lives in filing cabinets, shared drives, and spreadsheets that no one updates. Missed deadlines alone cost companies an average of $300,000 annually, and that figure climbs quickly for organizations managing hundreds or thousands of agreements.
+The hours and dollars lost on contracts that teams meant to terminate but simply forgot add up fast. These are not edge cases. They are the default outcome when contract data lives in filing cabinets, shared drives, and spreadsheets that no one updates. Missed deadlines alone cost companies an average of $300,000 annually, and that figure climbs quickly for organizations managing hundreds or thousands of agreements.
 
 The problem compounds for multi-entity organizations. When subsidiaries and acquired companies maintain separate contract repositories, nobody has a single view of total exposure. One subsidiary's vendor renewal might conflict with a parent company procurement agreement, and nobody notices until both contracts are active and redundant.
 
@@ -29,31 +26,19 @@ Contract intelligence comes down to four capabilities. Each one replaces a manua
 
 With [AI contract review](/guide/ai-contract-review-2) built into the platform, you can ask natural language questions across your entire contract portfolio. "Show me all agreements expiring this quarter." "What are the payment terms on our top 10 vendor contracts?" No more waiting for legal to pull files or IT to run a report.
 
-> "I just click the button and the AI pulls all the key terms out of the contract."
-> — **Steve Storck, Purchasing Manager at Denison University**
-
-Manual contract data entry takes 20 to 40 minutes per agreement. AI text extraction reduces that to 26 seconds, with 10 percent or higher accuracy than manual review.
+With a single click, AI pulls every key term out of a contract automatically. Manual contract data entry takes 20 to 40 minutes per agreement. AI text extraction reduces that to 26 seconds, with 10 percent or higher accuracy than manual review.
 
 ### Detect risk before it hits the P&L
 
-> "I don't think we've paid out a contract since we've implemented Concord because now we can track when the notice is coming up."
-> — **Jennifer Neville, Associate Corporate General Counsel at Sevita**
-
-Neville's team stopped paying out contracts they intended to terminate. The mechanism is automated deadline tracking with configurable reminders, from one to 365 days before renewal, expiration, or termination dates. AI extraction auto-populates these dates from uploaded documents, so your calendar fills itself instead of depending on someone remembering to check a spreadsheet.
+Organizations that adopt contract intelligence consistently report one outcome first: they stop paying out contracts they intended to terminate. The mechanism is automated deadline tracking with configurable reminders, from one to 365 days before renewal, expiration, or termination dates. AI extraction auto-populates these dates from uploaded documents, so your calendar fills itself instead of depending on someone remembering to check a spreadsheet.
 
 ### Build reports on demand
 
-How long does it take your team to pull a report on all contracts expiring this quarter? If the answer involves a spreadsheet, an email chain, and a two-week wait, you are flying blind. [AI CLM for finance](/guide/ai-powered-clm-financial-ops) means your reports contain AI-enriched data, not empty fields waiting for someone to type in contract values. You can filter by status, dates, parties, and financial terms, then export to Excel for your forecasting models. Organizations with contract reporting reduce risk exposure by 30 percent.
-
-> "The property, the fact that we have that property capability, is very exciting to the finance team because we can now add the values of our contracts."
-> — **Julie Delayo, Executive Director for Sponsored Programs, Grants and Contracts at Pima Community College**
+How long does it take your team to pull a report on all contracts expiring this quarter? If the answer involves a spreadsheet, an email chain, and a two-week wait, you are flying blind. [AI CLM for finance](/guide/ai-powered-clm-financial-ops) means your reports contain AI-enriched data, not empty fields waiting for someone to type in contract values. You can filter by status, dates, parties, and financial terms, then export to Excel for your forecasting models. Organizations with contract reporting reduce risk exposure by 30 percent. Finance teams particularly value the ability to attach actual contract values directly to their reporting, turning static documents into live financial data.
 
 ### Get portfolio-level intelligence
 
-Bulk extraction and analysis across thousands of contracts turns what used to be a two-week consulting project into a Tuesday afternoon task. At LeoVegas, the team saves more than 500 hours per year on manual data extraction alone.
-
-> "Referring to that specific project that I gave the example of, that took us two weeks to do manually. That now can be done in an afternoon."
-> — **Michael Cusher, Group Head of Legal at LeoVegas**
+Bulk extraction and analysis across thousands of contracts turns what used to be a two-week consulting project into a Tuesday afternoon task. Teams using portfolio-level intelligence report saving more than 500 hours per year on manual data extraction alone, with projects that previously required weeks of manual effort now completed in a single afternoon.
 
 ## AI-native vs. bolt-on: why the distinction matters for contract intelligence
 
@@ -63,20 +48,11 @@ AI-native means the intelligence layer is built into every workflow. You get nat
 
 Bolt-on AI means the intelligence is an add-on, often locked behind higher-tier plans. You still rely on someone to manually enter data, remember to check spreadsheets, and run keyword searches instead of asking questions in plain language.
 
-> "Concord's automation has made it much easier for our finance team to access contract information."
-> — **Nikos Anthopoulos, Efficiency Manager at Navarino**
-
 The practical difference for CFOs: with AI-native contract intelligence, you reduce administrative time by 40 to 60 percent. With bolt-on tools, portfolio-level analysis remains a consulting engagement, not a self-service report.
 
 ## What forward-looking CFOs are doing differently
 
-The CFOs who have made the shift from reactive to anticipatory contract management share a common thread. They treat contracts as a financial data source, not a legal filing obligation.
-
-> "Concord has really raised awareness of how much we stand to benefit by managing our contracts proactively."
-> — **Yolanda Lamboy, Director of Business Operations and Assistant General Counsel at Meeting Street**
-
-> "We're also able to forecast better too, what is coming up. And with the added-on columns that you guys now are capturing in your exports that's been huge. That lends to our life cycle, lends to our customer journey."
-> — **Melissa Hyde, Operations and Enablement at PAAY**
+The CFOs who have made the shift from reactive to anticipatory contract management share a common thread. They treat contracts as a financial data source, not a legal filing obligation. Once teams gain visibility into their contract portfolio, the benefits compound: better forecasting, earlier awareness of what commitments are coming up, and richer data exports that feed directly into financial planning.
 
 Concord serves more than 1,500 companies with over one million users, and the pattern is consistent: teams that move contract data out of static storage and into an [AI-powered financial operations CLM](/guide/ai-powered-clm-financial-ops) see measurable improvements in forecasting accuracy, renewal management, and cost avoidance. Sixty percent of attorney time previously spent on document review gets redirected to higher-value work. AI extraction delivers 90 percent or higher accuracy for standard fields, giving finance teams direct access without waiting in a queue.
 
@@ -106,7 +82,7 @@ AI-native platforms build intelligence into every workflow. Natural language que
 
 ### What ROI can finance teams expect from contract intelligence?
 
-Organizations using AI-native contract intelligence report 40 to 60 percent reductions in administrative time. Specific results include 26-second contract reviews (compared to 92 minutes manually), elimination of missed renewals, and direct cost avoidance from catching unneeded auto-renewals before they trigger. LeoVegas saved more than 500 hours per year on manual data extraction alone.
+Organizations using AI-native contract intelligence report 40 to 60 percent reductions in administrative time. Specific results include 26-second contract reviews (compared to 92 minutes manually), elimination of missed renewals, and direct cost avoidance from catching unneeded auto-renewals before they trigger. Some teams report saving more than 500 hours per year on manual data extraction alone.
 
 ---
 
